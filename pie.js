@@ -1,3 +1,5 @@
+document.getElementById('NextButton').click();
+
 setInterval(() => {
 
     if(document.getElementById('NextButton').title == 'Submit') { 
